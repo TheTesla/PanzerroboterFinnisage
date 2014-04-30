@@ -1,0 +1,160 @@
+%% Based on a TeXnicCenter-Template by Gyorgy SZEIDL.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------
+%
+
+%
+%----------------------------------------------------------
+% This is a sample document for the LaTeX Slides Class
+% Class options
+%       --  Body text point size (normalsize) is 27 (default)
+%           and can not be adjusted to any other value.
+%       --  Paper size:  letterpaper (8.5x11 inch, default)
+%                        a4paper, a5paper, b5paper,
+%                        legalpaper, executivepaper
+%       --  Orientation (portrait is the default):
+%                        landscape
+%       --  Quality:     final(default), draft
+%       --  Title page:  titlepage, notitlepage
+%       --  Columns:     onecolumn (default), [twocolumn is not avalible]
+%       --  Equation numbering (equation numbers on the right is the default)
+%                        leqno (equation numbers on the left)
+%       --  Displayed equations (centered is the default)
+%                    fleqn (flush left)
+%
+%  \documentclass[a4paper,fleqn]{slides}
+%
+%  The slides are separated from each other by the slide
+%  environment, see below:
+%
+
+
+\PassOptionsToPackage{table}{xcolor}
+\documentclass[xcolor=dvipsnames]{beamer}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+\usepackage{amsmath}
+\usepackage{amssymb,amsfonts,textcomp}
+%\usepackage{array}
+%\usepackage{hhline}
+%\usepackage{lmodern}
+%%\usepackage{epsfig}
+\usepackage{graphics}
+%\usepackage{exscale} %Skalierung der Mathesymbole
+%\usepackage{ifthen}
+%\usepackage{epic,eepic}
+\usepackage{color}
+%\usepackage{hyperref}
+\usepackage[absolute,overlay]{textpos}
+%\usepackage{booktabs}
+%\usepackage{url}
+\usepackage{tikz}
+\usetikzlibrary{arrows,shapes,positioning}
+\usetikzlibrary{calc}
+
+\usetheme{PaloAlto}
+\useinnertheme{rounded}
+%\definecolor{tuc}{cmyk}
+%\definecolor{tuc}{RGB}{0,90,70}
+%\definecolor{tuc}{RGB}{23,118,101}%{40,128,255} %
+\definecolor{tuc}{RGB}{255,255,9}
+\usecolortheme[named=tuc]{structure}
+
+%%% --------------------------------------------------------------
+\setbeamercolor{title}{fg=black}
+\setbeamercolor{title in sidebar}{fg=black}
+\setbeamercolor{author in sidebar}{fg=black}
+\setbeamercolor{subsection in sidebar}{fg=black}
+\setbeamercolor{section in sidebar}{fg=black}
+\setbeamercolor{frametitle}{fg=black}
+
+\logo{\includegraphics[width=1.5cm]{chch.png}}
+\begin{document}
+\title{Es gibt viel zu tun -- hau'n wir ab.}
+\author{Stefan Helmert}
+\date{03.05.2014}
+%\maketitle
+% ----------------------------------------------------------------
+
+
+\frame{\titlepage 
+	\begin{textblock}{5}(11,10)
+		\includegraphics[width=3cm]{Kamera.jpg}	
+	\end{textblock}
+}
+
+\section{Menschen}
+\frame
+{
+\frametitle{Menschen -- Leipzig}
+	\textbf{Initiatoren}
+	\begin{itemize}
+		\item Eva Olivin -- Kaffee, PCs installieren, Flyer, Anträge, Abrechnung, Videoschnitt
+		\item Robert Verch -- Webseite, PCs installieren, Flyer, Anträge, Abrechnung, Videoschnitt
+	\end{itemize}
+	\textbf{Sublab e.V.}
+	\begin{itemize}
+		\item Canci -- mjpegplexer (Video)
+		\item Olf -- Kamera, Untersuchungsprotokoll
+	\end{itemize}
+}
+
+\frame
+{
+\frametitle{Menschen -- Chemnitz}
+	\textbf{Chaoschemnitz e.V.}
+	\begin{itemize}
+		\item Stefan Helmert -- Ladegerät, Akkus, Robomechanik, -software (Server, Client), Killswitch, Präsentation
+		\item Thomas Walz -- Akkus, Roboelektronik, Kamera
+		\item Mike Stummvoll -- Akkus, Drucken
+		\item Florian Schlegel -- Netzwerk, Speicher/Aufzeichnung
+		\item Saturntyp -- Kamera-"'Attrappe"' 
+	\end{itemize}
+	\textbf{Freifunk Chemnitz e.V.}
+	\begin{itemize}
+		\item Amadeus Alfa -- Funkstrecke, Routing
+		\item Steffen Förster -- Funkstrecke, Routing
+	\end{itemize}
+	\textbf{sonstige}
+	\begin{itemize}
+		\item ein Tischler -- Holzkonstruktion der Überwachungsstation
+	\end{itemize}
+}
+
+\section{Aufbau}
+\frame
+{
+\frametitle{Aufbau -- Datennetz Roboter }
+	\begin{tikzpicture}[->,shorten >=1pt,auto,node distance=4cm,thick,minimum height=1.2cm]
+		\node[draw]	(robo)	{Roboter};
+		\node[draw] (roboctl) [left of=robo] {Steuerung};
+		\node[draw]	(PlexerNW) [above of=robo] {Plexer};
+		\node[draw]	(PlexerGa) [above of=roboctl] {Plexer};
+		\node[fill=blue!20, minimum height=7cm,minimum width=2cm,label={[label distance=-1cm]90:Funk}] (radio)	at ($(roboctl)!0.5!(PlexerNW)$) {};
+		\node[draw] (printer) [left of=PlexerGa,node distance=2cm]	{Drucker};
+		\node[draw] (keyboard) [left of=roboctl, node distance=2.5cm,minimum height=0.6cm,minimum width=1.9cm] {Tastatur};
+		\node[draw] (joystick) [above of=keyboard, node distance=0.7cm,minimum height=0.6cm,minimum width=1.9cm] {Joystick};
+		\node[draw] (monitor) [below of=keyboard, node distance=0.7cm,minimum height=0.6cm,minimum width=1.9cm] {Monitor};
+		\node[draw] (nsa)	[right of=PlexerNW, node distance=2cm] {NSA};
+		\path[every node/.style={font=\sffamily\small}]
+			(roboctl) edge node {Steuerbefehle} (robo)
+			(robo)	edge node {Video}	(PlexerNW)
+			(PlexerNW) edge node {Video} (PlexerGa)
+			(PlexerGa) edge node {Video} (roboctl)
+			(PlexerNW) edge node[rotate=45,pos=0.8] {Sperrsignal} (roboctl)
+			(PlexerGa) edge (printer)
+			(roboctl) edge (monitor)
+			(keyboard) edge (roboctl)
+			(joystick) edge (roboctl)
+			(roboctl) edge [bend left] node {Drucken}	(PlexerGa)
+			(PlexerNW) edge [bend left] node {Video} (nsa)
+			(nsa) edge [bend left] node {Sperre} (PlexerNW);
+			
+	\end{tikzpicture}
+}
+
+% ----------------------------------------------------------------
+
+\end{document}
