@@ -13,8 +13,18 @@
 \headcommand {\beamer@subsectionpages {2}{3}}
 \headcommand {\slideentry {2}{0}{4}{4/4}{}{0}}
 \headcommand {\beamer@framepages {4}{4}}
-\headcommand {\beamer@partpages {1}{4}}
-\headcommand {\beamer@subsectionpages {4}{4}}
+\headcommand {\sectionentry {3}{Werkzeug}{5}{Werkzeug}{0}}
 \headcommand {\beamer@sectionpages {4}{4}}
-\headcommand {\beamer@documentpages {4}}
-\headcommand {\def \inserttotalframenumber {4}}
+\headcommand {\beamer@subsectionpages {4}{4}}
+\headcommand {\slideentry {3}{0}{5}{5/5}{}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\sectionentry {4}{Material}{6}{Material}{0}}
+\headcommand {\beamer@sectionpages {5}{5}}
+\headcommand {\beamer@subsectionpages {5}{5}}
+\headcommand {\slideentry {4}{0}{6}{6/6}{}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\beamer@partpages {1}{6}}
+\headcommand {\beamer@subsectionpages {6}{6}}
+\headcommand {\beamer@sectionpages {6}{6}}
+\headcommand {\beamer@documentpages {6}}
+\headcommand {\def \inserttotalframenumber {6}}
