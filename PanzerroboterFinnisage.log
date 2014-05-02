@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.3.28)  30 APR 2014 18:54
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.3.28)  2 MAY 2014 04:20
 entering extended mode
 **C:/Projekte/PanzerroboterFinnisage/PanzerroboterFinnisage.tex
 (C:/Projekte/PanzerroboterFinnisage/PanzerroboterFinnisage.tex
@@ -1028,6 +1028,41 @@ File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.0 (rcs-revision 1.7)
 ikzlibrarycalc.code.tex"
 File: tikzlibrarycalc.code.tex 2013/07/15 v3.0.0 (rcs-revision 1.9)
 )
+("C:\Program Files\MiKTeX_64_bit\tex\generic\pgf\frontendlayer\tikz\libraries\t
+ikzlibrarymindmap.code.tex"
+File: tikzlibrarymindmap.code.tex 2013/07/16 v3.0.0 (rcs-revision 1.10)
+
+("C:\Program Files\MiKTeX_64_bit\tex\generic\pgf\frontendlayer\tikz\libraries\t
+ikzlibrarytrees.code.tex"
+File: tikzlibrarytrees.code.tex 2008/02/24 v3.0.0 (rcs-revision 1.2)
+)
+("C:\Program Files\MiKTeX_64_bit\tex\generic\pgf\frontendlayer\tikz\libraries\t
+ikzlibrarydecorations.code.tex"
+("C:\Program Files\MiKTeX_64_bit\tex\generic\pgf\modules\pgfmoduledecorations.c
+ode.tex"
+\pgfdecoratedcompleteddistance=\dimen211
+\pgfdecoratedremainingdistance=\dimen212
+\pgfdecoratedinputsegmentcompleteddistance=\dimen213
+\pgfdecoratedinputsegmentremainingdistance=\dimen214
+\pgf@decorate@distancetomove=\dimen215
+\pgf@decorate@repeatstate=\count164
+\pgfdecorationsegmentamplitude=\dimen216
+\pgfdecorationsegmentlength=\dimen217
+)
+\tikz@lib@dec@box=\box80
+))
+("C:\Program Files\MiKTeX_64_bit\tex\generic\pgf\frontendlayer\tikz\libraries\t
+ikzlibraryshadows.code.tex"
+File: tikzlibraryshadows.code.tex 2008/01/13 v3.0.0 (rcs-revision 1.3)
+
+("C:\Program Files\MiKTeX_64_bit\tex\generic\pgf\frontendlayer\tikz\libraries\t
+ikzlibraryfadings.code.tex"
+File: tikzlibraryfadings.code.tex 2009/11/15 v3.0.0 (rcs-revision 1.2)
+
+("C:\Program Files\MiKTeX_64_bit\tex\generic\pgf\libraries\pgflibraryfadings.co
+de.tex"
+File: pgflibraryfadings.code.tex 2008/02/07 v3.0.0 (rcs-revision 1.3)
+)))
 ("C:\Program Files\MiKTeX_64_bit\tex\latex\beamer\base\themes\theme\beamertheme
 PaloAlto.sty"
 Package: beamerthemePaloAlto 2010/06/17  (rcs-revision d02a7cf4d8ae)
@@ -1035,8 +1070,8 @@ Package: beamerthemePaloAlto 2010/06/17  (rcs-revision d02a7cf4d8ae)
 ("C:\Program Files\MiKTeX_64_bit\tex\latex\beamer\base\themes\outer\beamerouter
 themesidebar.sty"
 Package: beamerouterthemesidebar 2010/06/17  (rcs-revision d02a7cf4d8ae)
-\beamer@sidebarwidth=\dimen211
-\beamer@headheight=\dimen212
+\beamer@sidebarwidth=\dimen218
+\beamer@headheight=\dimen219
 )
 ("C:\Program Files\MiKTeX_64_bit\tex\latex\beamer\base\themes\inner\beamerinner
 themerounded.sty"
@@ -1055,27 +1090,27 @@ themestructure.sty"
 Package: beamercolorthemestructure 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )
 (C:\Projekte\PanzerroboterFinnisage\PanzerroboterFinnisage.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 74.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 74.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 78.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 78.
 
 ("C:\Program Files\MiKTeX_64_bit\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    ... okay on input line 78.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1113,20 +1148,20 @@ LaTeX Font Info:    ... okay on input line 74.
 
 ("C:\Program Files\MiKTeX_64_bit\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count164
-\scratchdimen=\dimen213
-\scratchbox=\box80
-\nofMPsegments=\count165
-\nofMParguments=\count166
+\scratchcounter=\count165
+\scratchdimen=\dimen220
+\scratchbox=\box81
+\nofMPsegments=\count166
+\nofMParguments=\count167
 \everyMPshowfont=\toks50
-\MPscratchCnt=\count167
-\MPscratchDim=\dimen214
-\MPnumerator=\count168
-\makeMPintoPDFobject=\count169
+\MPscratchCnt=\count168
+\MPscratchDim=\dimen221
+\MPnumerator=\count169
+\makeMPintoPDFobject=\count170
 \everyMPtoPDFconversion=\toks51
 ) ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box81
-Package hyperref Info: Link coloring OFF on input line 74.
+\AtBeginShipoutBox=\box82
+Package hyperref Info: Link coloring OFF on input line 78.
 
 ("C:\Program Files\MiKTeX_64_bit\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1134,72 +1169,72 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX_64_bit\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count170
+\c@section@level=\count171
 )
-LaTeX Info: Redefining \ref on input line 74.
-LaTeX Info: Redefining \pageref on input line 74.
-LaTeX Info: Redefining \nameref on input line 74.
+LaTeX Info: Redefining \ref on input line 78.
+LaTeX Info: Redefining \pageref on input line 78.
+LaTeX Info: Redefining \nameref on input line 78.
 
 (C:\Projekte\PanzerroboterFinnisage\PanzerroboterFinnisage.out)
 (C:\Projekte\PanzerroboterFinnisage\PanzerroboterFinnisage.out)
 \@outlinefile=\write5
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 74.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 78.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 74.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 78.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 74.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 74.
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 78.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/bx/n on input line 74.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/bx/n on input line 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/bx/n on input line 74.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 74.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/bx/n on input line 78.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 74.
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 74.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 74.
+(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 78.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 74.
+(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 74.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 74.
+(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 78.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 74.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 74.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 78.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/bx/n on input line 74.
+(Font)                  T1/cmss/m/n --> T1/cmss/bx/n on input line 78.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/bx/it on input line 74.
+(Font)                  T1/cmss/m/it --> T1/cmss/bx/it on input line 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmr/bx/n on input line 74.
+(Font)                  OT1/cmss/bx/n --> T1/cmr/bx/n on input line 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/cmss/bx/n --> T1/cmss/bx/n on input line 74.
+(Font)                  T1/cmss/bx/n --> T1/cmss/bx/n on input line 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/bx/n on input line 74.
+(Font)                  T1/cmss/m/n --> T1/cmss/bx/n on input line 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/bx/it on input line 74.
+(Font)                  T1/cmss/m/it --> T1/cmss/bx/it on input line 78.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/bx/n on input line 74.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 74.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/bx/n on input line 78.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 78.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `normal' on input line 74
+(Font)              `pureletters' in the math version `normal' on input line 78
 .
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 74
+(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 78
 .
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `bold' on input line 74.
+(Font)              `pureletters' in the math version `bold' on input line 78.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  T1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 7
-4.
+8.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 74.
+ut line 78.
 
 ("C:\Program Files\MiKTeX_64_bit\tex\latex\beamer\base\translator\dicts\transla
 tor-basic-dictionary\translator-basic-dictionary-English.dict"
@@ -1225,109 +1260,312 @@ Dictionary: translator-numbers-dictionary, Language: English
 tor-theorem-dictionary\translator-theorem-dictionary-English.dict"
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 74.
+LaTeX Info: Redefining \includegraphics on input line 78.
 
 (C:\Projekte\PanzerroboterFinnisage\PanzerroboterFinnisage.nav)
-<chch.png, id=28, 11.242pt x 6.5846pt>
+<chch.png, id=60, 11.242pt x 6.5846pt>
 File: chch.png Graphic file (type png)
  <use chch.png>
-Package pdftex.def Info: chch.png used on input line 74.
+Package pdftex.def Info: chch.png used on input line 78.
 (pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
 
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 76.
+(hyperref)                setting the option has no effect on input line 80.
 
-<Kamera.jpg, id=36, 721.69624pt x 963.6pt>
+<Kamera.jpg, id=68, 721.69624pt x 963.6pt>
 File: Kamera.jpg Graphic file (type jpg)
  <use Kamera.jpg>
-Package pdftex.def Info: Kamera.jpg used on input line 86.
+Package pdftex.def Info: Kamera.jpg used on input line 90.
 (pdftex.def)             Requested size: 85.35826pt x 113.96553pt.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 86.
+(Font)              size <5> substituted on input line 90.
 
 File: chch.png Graphic file (type png)
 <use chch.png>
-Package pdftex.def Info: chch.png used on input line 86.
+Package pdftex.def Info: chch.png used on input line 90.
 (pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
  [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
  <C:/Projekte/PanzerroboterFinnisage/chch.png> <C:/Projekte/PanzerroboterFinnis
-age/Kamera.jpg>]
+age/Kamera.jpg>] <Pcs.jpg, id=112, 1040.688pt x 1561.032pt>
+File: Pcs.jpg Graphic file (type jpg)
+ <use Pcs.jpg>
+Package pdftex.def Info: Pcs.jpg used on input line 96.
+(pdftex.def)             Requested size: 142.24945pt x 213.39566pt.
+File: chch.png Graphic file (type png)
+ <use chch.png>
+Package pdftex.def Info: chch.png used on input line 96.
+(pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
+
+[2
+
+ <C:/Projekte/PanzerroboterFinnisage/Pcs.jpg>]
+<Netzwerk.jpg, id=146, 1561.032pt x 1040.688pt>
+File: Netzwerk.jpg Graphic file (type jpg)
+ <use Netzwerk.jpg>
+Package pdftex.def Info: Netzwerk.jpg used on input line 99.
+(pdftex.def)             Requested size: 284.52756pt x 189.68181pt.
+File: chch.png Graphic file (type png)
+
+<use chch.png>
+Package pdftex.def Info: chch.png used on input line 99.
+(pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
+ [3
+
+ <C:/Projekte/PanzerroboterFinnisage/Netzwerk.jpg>]
+<NS5.jpg, id=179, 325.84343pt x 360.72156pt>
+File: NS5.jpg Graphic file (type jpg)
+ <use NS5.jpg>
+Package pdftex.def Info: NS5.jpg used on input line 102.
+(pdftex.def)             Requested size: 192.76303pt x 213.39566pt.
 File: chch.png Graphic file (type png)
  <use chch.png>
 Package pdftex.def Info: chch.png used on input line 102.
 (pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
- [2
 
-]
+[4
+
+ <C:/Projekte/PanzerroboterFinnisage/NS5.jpg>]
+<Cam.jpg, id=212, 762.14737pt x 875.6715pt>
+File: Cam.jpg Graphic file (type jpg)
+ <use Cam.jpg>
+Package pdftex.def Info: Cam.jpg used on input line 105.
+(pdftex.def)             Requested size: 185.72179pt x 213.39566pt.
 File: chch.png Graphic file (type png)
  <use chch.png>
-Package pdftex.def Info: chch.png used on input line 124.
-(pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
- [3
-
-]
-File: chch.png Graphic file (type png)
- <use chch.png>
-Package pdftex.def Info: chch.png used on input line 156.
-(pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
- [4
-
-]
-File: chch.png Graphic file (type png)
- <use chch.png>
-Package pdftex.def Info: chch.png used on input line 180.
+Package pdftex.def Info: chch.png used on input line 105.
 (pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
 
 [5
 
+ <C:/Projekte/PanzerroboterFinnisage/Cam.jpg>]
+<Software.jpg, id=245, 1561.032pt x 1040.688pt>
+File: Software.jpg Graphic file (type jpg)
+ <use Software.jpg>
+Package pdftex.def Info: Software.jpg used on input line 108.
+(pdftex.def)             Requested size: 284.52756pt x 189.68181pt.
+File: chch.png Graphic file (type png)
+
+<use chch.png>
+Package pdftex.def Info: chch.png used on input line 108.
+(pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
+ [6
+
+ <C:/Projekte/PanzerroboterFinnisage/Software.jpg>]
+<Panzer.jpg, id=278, 1112.155pt x 810.02625pt>
+File: Panzer.jpg Graphic file (type jpg)
+ <use Panzer.jpg>
+Package pdftex.def Info: Panzer.jpg used on input line 111.
+(pdftex.def)             Requested size: 284.52756pt x 207.22757pt.
+File: chch.png Graphic file (type png)
+ <use chch.png>
+Package pdftex.def Info: chch.png used on input line 111.
+(pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
+
+[7
+
+ <C:/Projekte/PanzerroboterFinnisage/Panzer.jpg>]
+<Robo.jpg, id=312, 618.51076pt x 321.30037pt>
+File: Robo.jpg Graphic file (type jpg)
+ <use Robo.jpg>
+Package pdftex.def Info: Robo.jpg used on input line 114.
+(pdftex.def)             Requested size: 284.52756pt x 147.80486pt.
+File: chch.png Graphic file (type png)
+ <use chch.png>
+Package pdftex.def Info: chch.png used on input line 114.
+(pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
+
+[8
+
+ <C:/Projekte/PanzerroboterFinnisage/Robo.jpg>]
+<Elektronik.jpg, id=345, 671.20763pt x 363.759pt>
+File: Elektronik.jpg Graphic file (type jpg)
+ <use Elektronik.jpg>
+Package pdftex.def Info: Elektronik.jpg used on input line 117.
+(pdftex.def)             Requested size: 284.52756pt x 154.19867pt.
+File: chch.png Graphic file (type png)
+
+<use chch.png>
+Package pdftex.def Info: chch.png used on input line 117.
+(pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
+ [9
+
+ <C:/Projekte/PanzerroboterFinnisage/Elektronik.jpg>]
+File: chch.png Graphic file (type png)
+
+<use chch.png>
+Package pdftex.def Info: chch.png used on input line 137.
+(pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
+ [10
+
 ]
+File: chch.png Graphic file (type png)
+ <use chch.png>
+Package pdftex.def Info: chch.png used on input line 164.
+(pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
+ [11
+
+]
+File: chch.png Graphic file (type png)
+ <use chch.png>
+Package pdftex.def Info: chch.png used on input line 187.
+(pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
+ [12
+
+]
+<3D-Drucker.jpg, id=475, 2409.0pt x 1806.75pt>
+File: 3D-Drucker.jpg Graphic file (type jpg)
+ <use 3D-Drucker.jpg>
+Package pdftex.def Info: 3D-Drucker.jpg used on input line 190.
+(pdftex.def)             Requested size: 284.52756pt x 213.38211pt.
+File: chch.png Graphic file (type png)
+
+<use chch.png>
+Package pdftex.def Info: chch.png used on input line 190.
+(pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
+ [13
+
+ <C:/Projekte/PanzerroboterFinnisage/3D-Drucker.jpg>]
+<Robobesser.jpg, id=509, 1272.85538pt x 870.8535pt>
+File: Robobesser.jpg Graphic file (type jpg)
+ <use Robobesser.jpg>
+Package pdftex.def Info: Robobesser.jpg used on input line 193.
+(pdftex.def)             Requested size: 284.52756pt x 194.65791pt.
+File: chch.png Graphic file (type png)
+
+<use chch.png>
+Package pdftex.def Info: chch.png used on input line 193.
+(pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
+ [14
+
+ <C:/Projekte/PanzerroboterFinnisage/Robobesser.jpg>]
+<Besenstiel.jpg, id=542, 1040.688pt x 1561.032pt>
+File: Besenstiel.jpg Graphic file (type jpg)
+ <use Besenstiel.jpg>
+Package pdftex.def Info: Besenstiel.jpg used on input line 196.
+(pdftex.def)             Requested size: 142.24945pt x 213.39566pt.
+File: chch.png Graphic file (type png)
+
+<use chch.png>
+Package pdftex.def Info: chch.png used on input line 196.
+(pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
+ [15
+
+ <C:/Projekte/PanzerroboterFinnisage/Besenstiel.jpg>]
+<ComputerZusammen.jpg, id=575, 1561.032pt x 1040.688pt>
+File: ComputerZusammen.jpg Graphic file (type jpg)
+
+<use ComputerZusammen.jpg>
+Package pdftex.def Info: ComputerZusammen.jpg used on input line 199.
+(pdftex.def)             Requested size: 284.52756pt x 189.68181pt.
+File: chch.png Graphic file (type png)
+ <use chch.png>
+Package pdftex.def Info: chch.png used on input line 199.
+(pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
+ [16
+
+ <C:/Projekte/PanzerroboterFinnisage/ComputerZusammen.jpg>] <Station_h.jpg, id=
+607, 1561.032pt x 1040.688pt>
+File: Station_h.jpg Graphic file (type jpg)
+
+<use Station_h.jpg>
+Package pdftex.def Info: Station_h.jpg used on input line 202.
+(pdftex.def)             Requested size: 284.52756pt x 189.68181pt.
 File: chch.png Graphic file (type png)
  <use chch.png>
 Package pdftex.def Info: chch.png used on input line 202.
 (pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
- [6
+ [17
+
+ <C:/Projekte/PanzerroboterFinnisage/Station_h.jpg>]
+File: chch.png Graphic file (type png)
+ <use chch.png>
+Package pdftex.def Info: chch.png used on input line 234.
+(pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
+ [18
 
 ]
+<HDDueberwachung.png, id=671, 734.745pt x 579.66562pt>
+File: HDDueberwachung.png Graphic file (type png)
+
+<use HDDueberwachung.png>
+Package pdftex.def Info: HDDueberwachung.png used on input line 238.
+(pdftex.def)             Requested size: 284.52756pt x 224.47658pt.
+
+Overfull \vbox (4.04996pt too high) detected at line 238
+ []
+
+File: chch.png Graphic file (type png)
+<use chch.png>
+Package pdftex.def Info: chch.png used on input line 238.
+(pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
+ [19
+
+ <C:/Projekte/PanzerroboterFinnisage/HDDueberwachung.png>]
+<HDDueberwachung2.png, id=705, 787.44188pt x 363.60844pt>
+File: HDDueberwachung2.png Graphic file (type png)
+
+<use HDDueberwachung2.png>
+Package pdftex.def Info: HDDueberwachung2.png used on input line 241.
+(pdftex.def)             Requested size: 284.52756pt x 131.38162pt.
+File: chch.png Graphic file (type png)
+ <use chch.png>
+Package pdftex.def Info: chch.png used on input line 241.
+(pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
+ [20
+
+ <C:/Projekte/PanzerroboterFinnisage/HDDueberwachung2.png>] <Station_v.jpg, id=
+737, 752.8125pt x 501.875pt>
+File: Station_v.jpg Graphic file (type jpg)
+
+<use Station_v.jpg>
+Package pdftex.def Info: Station_v.jpg used on input line 245.
+(pdftex.def)             Requested size: 284.52756pt x 189.68831pt.
+File: chch.png Graphic file (type png)
+ <use chch.png>
+Package pdftex.def Info: chch.png used on input line 245.
+(pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
+ [21
+
+ <C:/Projekte/PanzerroboterFinnisage/Station_v.jpg>]
 \tf@nav=\write6
 \tf@toc=\write7
 \tf@snm=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 206.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 206.
-
-(C:\Projekte\PanzerroboterFinnisage\PanzerroboterFinnisage.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 206.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 206.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 253.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 253.
+ (C:\Projekte\PanzerroboterFinnisage\PanzerroboterFinnisage.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 253.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 253.
 Package rerunfilecheck Info: File `PanzerroboterFinnisage.out' has not changed.
 
-(rerunfilecheck)             Checksum: 5F55909544885433ED8B7FD4F7806E11;174.
+(rerunfilecheck)             Checksum: DC0C0B76D8F3112A8CEBCE7B2699FA9C;287.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 206.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 253.
  ) 
 Here is how much of TeX's memory you used:
- 23131 strings out of 493921
- 476616 string characters out of 3146079
- 565183 words of memory out of 3000000
- 25877 multiletter control sequences out of 15000+200000
+ 23903 strings out of 493921
+ 498487 string characters out of 3146079
+ 586893 words of memory out of 3000000
+ 26580 multiletter control sequences out of 15000+200000
  10398 words of font info for 24 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 56i,20n,67p,467b,828s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,20n,78p,467b,828s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Admin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
 ecss1000.pk> <C:\Users\Admin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
 ec\dpi600\ecsx1095.pk> <C:\Users\Admin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
 \jknappen\ec\dpi600\ecss1095.pk> <C:\Users\Admin\AppData\Local\MiKTeX\2.9\fonts
 \pk\ljfour\jknappen\ec\dpi600\ecss1440.pk> <C:\Users\Admin\AppData\Local\MiKTeX
 \2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss0600.pk>
-Output written on PanzerroboterFinnisage.pdf (6 pages, 145081 bytes).
+Output written on PanzerroboterFinnisage.pdf (21 pages, 18821664 bytes).
 PDF statistics:
- 427 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
- 109 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 974 PDF objects out of 1000 (max. 8388607)
+ 49 named destinations out of 1000 (max. 500000)
+ 301 words of extra memory for PDF output out of 10000 (max. 10000000)
 
