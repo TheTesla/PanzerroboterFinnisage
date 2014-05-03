@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.3.28)  2 MAY 2014 22:11
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.3.28)  3 MAY 2014 18:16
 entering extended mode
 **C:/Projekte/PanzerroboterFinnisage/PanzerroboterFinnisage.tex
 (C:/Projekte/PanzerroboterFinnisage/PanzerroboterFinnisage.tex
@@ -1263,7 +1263,7 @@ Dictionary: translator-theorem-dictionary, Language: English
 LaTeX Info: Redefining \includegraphics on input line 78.
 
 (C:\Projekte\PanzerroboterFinnisage\PanzerroboterFinnisage.nav)
-<chch.png, id=60, 11.242pt x 6.5846pt>
+<chch.png, id=56, 11.242pt x 6.5846pt>
 File: chch.png Graphic file (type png)
  <use chch.png>
 Package pdftex.def Info: chch.png used on input line 78.
@@ -1273,7 +1273,7 @@ Package pdftex.def Info: chch.png used on input line 78.
 Package hyperref Warning: Option `pdfauthor' has already been used,
 (hyperref)                setting the option has no effect on input line 80.
 
-<Kamera.jpg, id=68, 721.69624pt x 963.6pt>
+<Kamera.jpg, id=64, 721.69624pt x 963.6pt>
 File: Kamera.jpg Graphic file (type jpg)
  <use Kamera.jpg>
 Package pdftex.def Info: Kamera.jpg used on input line 90.
@@ -1290,7 +1290,7 @@ Package pdftex.def Info: chch.png used on input line 90.
  [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
  <C:/Projekte/PanzerroboterFinnisage/chch.png> <C:/Projekte/PanzerroboterFinnis
-age/Kamera.jpg>] <Pcs.jpg, id=112, 1040.688pt x 1561.032pt>
+age/Kamera.jpg>] <Pcs.jpg, id=106, 1040.688pt x 1561.032pt>
 File: Pcs.jpg Graphic file (type jpg)
  <use Pcs.jpg>
 Package pdftex.def Info: Pcs.jpg used on input line 96.
@@ -1303,7 +1303,7 @@ Package pdftex.def Info: chch.png used on input line 96.
 [2
 
  <C:/Projekte/PanzerroboterFinnisage/Pcs.jpg>]
-<Netzwerk.jpg, id=146, 1561.032pt x 1040.688pt>
+<Netzwerk.jpg, id=139, 1561.032pt x 1040.688pt>
 File: Netzwerk.jpg Graphic file (type jpg)
  <use Netzwerk.jpg>
 Package pdftex.def Info: Netzwerk.jpg used on input line 99.
@@ -1316,7 +1316,7 @@ Package pdftex.def Info: chch.png used on input line 99.
  [3
 
  <C:/Projekte/PanzerroboterFinnisage/Netzwerk.jpg>]
-<NS5.jpg, id=179, 325.84343pt x 360.72156pt>
+<NS5.jpg, id=171, 325.84343pt x 360.72156pt>
 File: NS5.jpg Graphic file (type jpg)
  <use NS5.jpg>
 Package pdftex.def Info: NS5.jpg used on input line 102.
@@ -1329,7 +1329,7 @@ Package pdftex.def Info: chch.png used on input line 102.
 [4
 
  <C:/Projekte/PanzerroboterFinnisage/NS5.jpg>]
-<Cam.jpg, id=212, 762.14737pt x 875.6715pt>
+<Cam.jpg, id=203, 762.14737pt x 875.6715pt>
 File: Cam.jpg Graphic file (type jpg)
  <use Cam.jpg>
 Package pdftex.def Info: Cam.jpg used on input line 105.
@@ -1342,7 +1342,7 @@ Package pdftex.def Info: chch.png used on input line 105.
 [5
 
  <C:/Projekte/PanzerroboterFinnisage/Cam.jpg>]
-<Software.jpg, id=245, 1561.032pt x 1040.688pt>
+<Software.jpg, id=235, 1561.032pt x 1040.688pt>
 File: Software.jpg Graphic file (type jpg)
  <use Software.jpg>
 Package pdftex.def Info: Software.jpg used on input line 108.
@@ -1355,7 +1355,7 @@ Package pdftex.def Info: chch.png used on input line 108.
  [6
 
  <C:/Projekte/PanzerroboterFinnisage/Software.jpg>]
-<Panzer.jpg, id=278, 1112.155pt x 810.02625pt>
+<Panzer.jpg, id=267, 1112.155pt x 810.02625pt>
 File: Panzer.jpg Graphic file (type jpg)
  <use Panzer.jpg>
 Package pdftex.def Info: Panzer.jpg used on input line 111.
@@ -1368,7 +1368,7 @@ Package pdftex.def Info: chch.png used on input line 111.
 [7
 
  <C:/Projekte/PanzerroboterFinnisage/Panzer.jpg>]
-<Robo.jpg, id=312, 618.51076pt x 321.30037pt>
+<Robo.jpg, id=300, 618.51076pt x 321.30037pt>
 File: Robo.jpg Graphic file (type jpg)
  <use Robo.jpg>
 Package pdftex.def Info: Robo.jpg used on input line 114.
@@ -1381,7 +1381,7 @@ Package pdftex.def Info: chch.png used on input line 114.
 [8
 
  <C:/Projekte/PanzerroboterFinnisage/Robo.jpg>]
-<Elektronik.jpg, id=345, 671.20763pt x 363.759pt>
+<Elektronik.jpg, id=332, 671.20763pt x 363.759pt>
 File: Elektronik.jpg Graphic file (type jpg)
  <use Elektronik.jpg>
 Package pdftex.def Info: Elektronik.jpg used on input line 117.
@@ -1416,7 +1416,7 @@ Package pdftex.def Info: chch.png used on input line 188.
  [12
 
 ]
-<3D-Drucker.jpg, id=475, 2409.0pt x 1806.75pt>
+<3D-Drucker.jpg, id=458, 2409.0pt x 1806.75pt>
 File: 3D-Drucker.jpg Graphic file (type jpg)
  <use 3D-Drucker.jpg>
 Package pdftex.def Info: 3D-Drucker.jpg used on input line 191.
@@ -1429,7 +1429,7 @@ Package pdftex.def Info: chch.png used on input line 191.
  [13
 
  <C:/Projekte/PanzerroboterFinnisage/3D-Drucker.jpg>]
-<Openscad.png, id=509, 940.51375pt x 657.45625pt>
+<Openscad.png, id=491, 940.51375pt x 657.45625pt>
 File: Openscad.png Graphic file (type png)
  <use Openscad.png>
 Package pdftex.def Info: Openscad.png used on input line 194.
@@ -1441,8 +1441,8 @@ Package pdftex.def Info: chch.png used on input line 194.
 (pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
  [14
 
- <C:/Projekte/PanzerroboterFinnisage/Openscad.png (PNG copy)>] <Cura.png, id=54
-2, 887.315pt x 532.99126pt>
+ <C:/Projekte/PanzerroboterFinnisage/Openscad.png (PNG copy)>] <Cura.png, id=52
+3, 887.315pt x 532.99126pt>
 File: Cura.png Graphic file (type png)
  <use Cura.png>
 Package pdftex.def Info: Cura.png used on input line 197.
@@ -1455,7 +1455,7 @@ Package pdftex.def Info: chch.png used on input line 197.
 [15
 
  <C:/Projekte/PanzerroboterFinnisage/Cura.png (PNG copy)>]
-<Octoprint.png, id=575, 1036.87375pt x 801.99625pt>
+<Octoprint.png, id=555, 1036.87375pt x 801.99625pt>
 File: Octoprint.png Graphic file (type png)
  <use Octoprint.png>
 Package pdftex.def Info: Octoprint.png used on input line 200.
@@ -1468,7 +1468,7 @@ Package pdftex.def Info: chch.png used on input line 200.
  [16
 
  <C:/Projekte/PanzerroboterFinnisage/Octoprint.png (PNG copy)>] <Codeblocks.png
-, id=608, 1236.62pt x 770.88pt>
+, id=587, 1236.62pt x 770.88pt>
 File: Codeblocks.png Graphic file (type png)
  <use Codeblocks.png>
 Package pdftex.def Info: Codeblocks.png used on input line 203.
@@ -1481,7 +1481,7 @@ Package pdftex.def Info: chch.png used on input line 203.
  [17
 
  <C:/Projekte/PanzerroboterFinnisage/Codeblocks.png (PNG copy)>] <Sourcetree.pn
-g, id=641, 1267.73625pt x 771.88374pt>
+g, id=619, 1267.73625pt x 771.88374pt>
 File: Sourcetree.png Graphic file (type png)
  <use Sourcetree.png>
 Package pdftex.def Info: Sourcetree.png used on input line 206.
@@ -1494,7 +1494,7 @@ Package pdftex.def Info: chch.png used on input line 206.
  [18
 
  <C:/Projekte/PanzerroboterFinnisage/Sourcetree.png (PNG copy)>] <Robobesser.jp
-g, id=674, 1272.85538pt x 870.8535pt>
+g, id=651, 1272.85538pt x 870.8535pt>
 File: Robobesser.jpg Graphic file (type jpg)
  <use Robobesser.jpg>
 Package pdftex.def Info: Robobesser.jpg used on input line 209.
@@ -1507,7 +1507,7 @@ Package pdftex.def Info: chch.png used on input line 209.
  [19
 
  <C:/Projekte/PanzerroboterFinnisage/Robobesser.jpg>]
-<Besenstiel.jpg, id=708, 1040.688pt x 1561.032pt>
+<Besenstiel.jpg, id=684, 1040.688pt x 1561.032pt>
 File: Besenstiel.jpg Graphic file (type jpg)
  <use Besenstiel.jpg>
 Package pdftex.def Info: Besenstiel.jpg used on input line 212.
@@ -1520,7 +1520,7 @@ Package pdftex.def Info: chch.png used on input line 212.
  [20
 
  <C:/Projekte/PanzerroboterFinnisage/Besenstiel.jpg>]
-<ComputerZusammen.jpg, id=741, 1561.032pt x 1040.688pt>
+<ComputerZusammen.jpg, id=715, 1561.032pt x 1040.688pt>
 File: ComputerZusammen.jpg Graphic file (type jpg)
 
 <use ComputerZusammen.jpg>
@@ -1532,41 +1532,28 @@ Package pdftex.def Info: chch.png used on input line 215.
 (pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
  [21
 
- <C:/Projekte/PanzerroboterFinnisage/ComputerZusammen.jpg>] <Station_h.jpg, id=
-773, 1561.032pt x 1040.688pt>
-File: Station_h.jpg Graphic file (type jpg)
-
-<use Station_h.jpg>
-Package pdftex.def Info: Station_h.jpg used on input line 218.
-(pdftex.def)             Requested size: 284.52756pt x 189.68181pt.
+ <C:/Projekte/PanzerroboterFinnisage/ComputerZusammen.jpg>]
 File: chch.png Graphic file (type png)
  <use chch.png>
-Package pdftex.def Info: chch.png used on input line 218.
+Package pdftex.def Info: chch.png used on input line 247.
 (pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
  [22
 
- <C:/Projekte/PanzerroboterFinnisage/Station_h.jpg>]
-File: chch.png Graphic file (type png)
- <use chch.png>
-Package pdftex.def Info: chch.png used on input line 250.
-(pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
- [23
-
 ]
-<Station_v.jpg, id=837, 752.8125pt x 501.875pt>
-File: Station_v.jpg Graphic file (type jpg)
- <use Station_v.jpg>
-Package pdftex.def Info: Station_v.jpg used on input line 255.
-(pdftex.def)             Requested size: 284.52756pt x 189.68831pt.
+<Station_h.jpg, id=778, 1561.032pt x 1040.688pt>
+File: Station_h.jpg Graphic file (type jpg)
+ <use Station_h.jpg>
+Package pdftex.def Info: Station_h.jpg used on input line 251.
+(pdftex.def)             Requested size: 284.52756pt x 189.68181pt.
 File: chch.png Graphic file (type png)
 
 <use chch.png>
-Package pdftex.def Info: chch.png used on input line 255.
+Package pdftex.def Info: chch.png used on input line 251.
 (pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
- [24
+ [23
 
- <C:/Projekte/PanzerroboterFinnisage/Station_v.jpg>]
-LaTeX Font Info:    Try loading font information for TS1+cmss on input line 268
+ <C:/Projekte/PanzerroboterFinnisage/Station_h.jpg>]
+LaTeX Font Info:    Try loading font information for TS1+cmss on input line 264
 .
 
 ("C:\Program Files\MiKTeX_64_bit\tex\latex\base\ts1cmss.fd"
@@ -1574,40 +1561,35 @@ File: ts1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 File: chch.png Graphic file (type png)
  <use chch.png>
-Package pdftex.def Info: chch.png used on input line 268.
+Package pdftex.def Info: chch.png used on input line 264.
 (pdftex.def)             Requested size: 42.67912pt x 25.00589pt.
 
-[25
+[24
 
 ]
 \tf@nav=\write6
 \tf@toc=\write7
 \tf@snm=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 274.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 274.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 270.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 270.
  (C:\Projekte\PanzerroboterFinnisage\PanzerroboterFinnisage.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 274.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 274.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 270.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 270.
+Package rerunfilecheck Info: File `PanzerroboterFinnisage.out' has not changed.
 
+(rerunfilecheck)             Checksum: D1457D5AC960C23251515348D5E503CD;225.
 
-Package rerunfilecheck Warning: File `PanzerroboterFinnisage.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `PanzerroboterFinnisage.out':
-(rerunfilecheck)             Before: 131E02AD70FB850828D6EB12F7E6DFD9;263
-(rerunfilecheck)             After:  C82049FC26C919A95C01122CC66FEFBE;268.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 274.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 270.
  ) 
 Here is how much of TeX's memory you used:
- 23952 strings out of 493921
- 499429 string characters out of 3146079
- 587331 words of memory out of 3000000
- 26614 multiletter control sequences out of 15000+200000
+ 23938 strings out of 493921
+ 499264 string characters out of 3146079
+ 586169 words of memory out of 3000000
+ 26604 multiletter control sequences out of 15000+200000
  10743 words of font info for 25 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  56i,20n,78p,467b,828s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1618,9 +1600,9 @@ ec\dpi600\ecss1000.pk> <C:\Users\Admin\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
 \pk\ljfour\jknappen\ec\dpi600\ecss1095.pk> <C:\Users\Admin\AppData\Local\MiKTeX
 \2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1440.pk> <C:\Users\Admin\AppData\Lo
 cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss0600.pk>
-Output written on PanzerroboterFinnisage.pdf (25 pages, 19159629 bytes).
+Output written on PanzerroboterFinnisage.pdf (24 pages, 19102147 bytes).
 PDF statistics:
- 1117 PDF objects out of 1200 (max. 8388607)
- 57 named destinations out of 1000 (max. 500000)
- 316 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1057 PDF objects out of 1200 (max. 8388607)
+ 54 named destinations out of 1000 (max. 500000)
+ 303 words of extra memory for PDF output out of 10000 (max. 10000000)
 

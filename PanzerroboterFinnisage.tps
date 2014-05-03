@@ -17,8 +17,8 @@ Class=LaTeXView
 Document=PanzerroboterFinnisage.tex
 
 [Frame0_View0,0]
-TopLine=234
-Cursor=7472
+TopLine=239
+Cursor=7762
 
 [SessionInfo]
 FrameCount=1
