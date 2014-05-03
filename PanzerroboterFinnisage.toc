@@ -3,6 +3,6 @@
 \beamer@sectionintoc {1}{Zutaten}{2}{0}{1}
 \beamer@sectionintoc {2}{Organisation}{11}{0}{2}
 \beamer@sectionintoc {3}{Werkzeug}{12}{0}{3}
-\beamer@sectionintoc {4}{Aufbau}{23}{0}{4}
-\beamer@sectionintoc {5}{Station}{24}{0}{5}
-\beamer@sectionintoc {6}{Projektdaten}{25}{0}{6}
+\beamer@sectionintoc {4}{Aufbau}{18}{0}{4}
+\beamer@sectionintoc {5}{Aufzeichnung}{19}{0}{5}
+\beamer@sectionintoc {6}{Die \"Uberwachungsstation}{21}{0}{6}
